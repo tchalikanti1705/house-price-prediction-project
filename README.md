@@ -52,6 +52,18 @@ house-price-prediction/
 
 ---
 
+## 📚 Resources & References
+For beginners, here are some high-quality resources that explain **Regression and its Mathematical Implementation in a simple way**:
+
+- **Article:** [Understanding Linear Regression](https://towardsdatascience.com/linear-regression-explained-1b36f97b7572/) - Explains linear regression in simple terms.
+- **Article:** [Mathematical Implementation of Linear Regression](https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/) - A step-by-step mathematical breakdown of regression.
+- **YouTube Video:** [Mathematical Understanding of Linear Regression](https://www.youtube.com/watch?v=VmbA0pi2cRQ) - Covers the math behind regression step by step.
+
+
+These resources will help anyone understand **what regression is, how it works mathematically, and how to implement it in Python**.
+
+---
+
 ## 🚀 How to Use This Project
 
 ### **Step 1: Clone the Repository**
