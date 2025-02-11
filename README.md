@@ -108,17 +108,6 @@ These steps help us understand the **key factors** that affect house prices befo
 
 ---
 
-## 📌 Data Preprocessing
 
-The **data preprocessing file** prepares the dataset for training. It ensures the data is clean, structured, and suitable for machine learning models. This step includes handling missing values, selecting important features, and normalizing data for better performance.
-
-### **Data Preprocessing Steps Performed:**
-1️⃣ **Handling Missing Values** – Filling missing values in `total_bedrooms` with the median.
-2️⃣ **Feature Selection** – Keeping relevant columns for prediction.
-3️⃣ **Splitting Data** – Dividing the dataset into **80% training** and **20% testing**.
-4️⃣ **Feature Scaling** – Normalizing numerical values to improve model accuracy.
-5️⃣ **Saving Processed Data** – Storing cleaned data for future use.
-
-These steps ensure that the data is ready for training, making the model more accurate and reliable.
 
 
