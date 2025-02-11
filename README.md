@@ -90,3 +90,35 @@ python src/train.py
 ```bash
 python src/evaluate.py
 ```
+
+---
+
+## 📌 Exploratory Data Analysis (EDA)
+
+The **EDA file** helps us understand the data before building a model. It cleans the data, removes missing values, and finds patterns. We explore how income, population, and location affect house prices. This step helps us see important relationships and trends in the dataset. The insights from EDA guide us in selecting the best features for prediction.
+
+### **EDA Steps Performed:**
+1️⃣ **Income vs. House Prices** – Do high-income areas have expensive houses?
+2️⃣ **Population Density Impact** – Do crowded places have lower or higher prices?
+3️⃣ **Feature Engineering** – Creating new features like rooms per household.
+4️⃣ **House Age Distribution** – Are older houses more expensive or cheaper?
+5️⃣ **Geospatial Analysis** – Mapping house prices across locations.
+
+These steps help us understand the **key factors** that affect house prices before training a model.
+
+---
+
+## 📌 Data Preprocessing
+
+The **data preprocessing file** prepares the dataset for training. It ensures the data is clean, structured, and suitable for machine learning models. This step includes handling missing values, selecting important features, and normalizing data for better performance.
+
+### **Data Preprocessing Steps Performed:**
+1️⃣ **Handling Missing Values** – Filling missing values in `total_bedrooms` with the median.
+2️⃣ **Feature Selection** – Keeping relevant columns for prediction.
+3️⃣ **Splitting Data** – Dividing the dataset into **80% training** and **20% testing**.
+4️⃣ **Feature Scaling** – Normalizing numerical values to improve model accuracy.
+5️⃣ **Saving Processed Data** – Storing cleaned data for future use.
+
+These steps ensure that the data is ready for training, making the model more accurate and reliable.
+
+
